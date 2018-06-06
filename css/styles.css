@@ -1,7 +1,22 @@
 body {
-    padding-top: 70px;
+
+}
+
+.jumbotron p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
 }
 
 .navbar {
     margin-bottom:0;
+}
+
+.jumbotron {
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+.slide-1 {
+    background: url('https://cdn.pixabay.com/photo/2018/05/20/16/13/dandelion-3416140_960_720.jpg');
+    background-size: cover;
 }
